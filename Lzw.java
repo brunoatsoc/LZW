@@ -48,8 +48,6 @@ public class Lzw{
             }
         }
 
-        printMap();
-
         int count = 0;
         String p = leters.get(count);
         String c = "";
@@ -82,6 +80,7 @@ public class Lzw{
 
             fileout.printf("\n");
 
+            printMap();
             printCode();
         }catch(Exception e){
             System.out.println(e);

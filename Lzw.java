@@ -148,7 +148,6 @@ public class Lzw{
     }
 
     private void printMap(){
-        //Escreve a matriz no arquivo
         try{
             for(Map.Entry<String, Integer> me : strCode.entrySet()){
                 fileout.println(me.getKey() + ":" + me.getValue());

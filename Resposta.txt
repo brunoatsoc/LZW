@@ -1,0 +1,198 @@
+D:1
+E:31
+M:27
+N:26
+ :4
+a:3
+á:18
+b:11
+ã:20
+c:28
+d:7
+e:8
+f:24
+ç:22
+i:2
+é:13
+ê:29
+,:19
+l:30
+m:10
+n:15
+.:25
+o:5
+p:23
+q:21
+r:12
+s:17
+t:6
+u:14
+v:16
+z:9
+
+p = D, c = i, p + c  = Di
+p = i, c = a, p + c  = ia
+p = a, c =  , p + c  = a 
+p =  , c = o, p + c  =  o
+p = o, c = i, p + c  = oi
+p = i, c = t, p + c  = it
+p = t, c = o, p + c  = to
+p = o, c =  , p + c  = o 
+p =  , c = d, p + c  =  d
+p = d, c = e, p + c  = de
+p = e, c =  , p + c  = e 
+p =  , c = d, p + c  =  d
+p =  d, c = e, p + c  =  de
+p = e, c = z, p + c  = ez
+p = z, c = e, p + c  = ze
+p = e, c = m, p + c  = em
+p = m, c = b, p + c  = mb
+p = b, c = r, p + c  = br
+p = r, c = o, p + c  = ro
+p = o, c =  , p + c  = o 
+p = o , c = é, p + c  = o é
+p = é, c =  , p + c  = é 
+p =  , c = m, p + c  =  m
+p = m, c = e, p + c  = me
+p = e, c = u, p + c  = eu
+p = u, c =  , p + c  = u 
+p =  , c = a, p + c  =  a
+p = a, c = n, p + c  = an
+p = n, c = i, p + c  = ni
+p = i, c = v, p + c  = iv
+p = v, c = e, p + c  = ve
+p = e, c = r, p + c  = er
+p = r, c = s, p + c  = rs
+p = s, c = á, p + c  = sá
+p = á, c = r, p + c  = ár
+p = r, c = i, p + c  = ri
+p = i, c = o, p + c  = io
+p = o, c = ,, p + c  = o,
+p = ,, c =  , p + c  = , 
+p =  , c = n, p + c  =  n
+p = n, c = ã, p + c  = nã
+p = ã, c = o, p + c  = ão
+p = o, c =  , p + c  = o 
+p = o , c = s, p + c  = o s
+p = s, c = e, p + c  = se
+p = e, c =  , p + c  = e 
+p = e , c = e, p + c  = e e
+p = e, c = s, p + c  = es
+p = s, c = q, p + c  = sq
+p = q, c = u, p + c  = qu
+p = u, c = e, p + c  = ue
+p = e, c = ç, p + c  = eç
+p = ç, c = a, p + c  = ça
+p = a, c = ,, p + c  = a,
+p = ,, c =  , p + c  = , 
+p = , , c = p, p + c  = , p
+p = p, c = o, p + c  = po
+p = o, c = r, p + c  = or
+p = r, c =  , p + c  = r 
+p =  , c = f, p + c  =  f
+p = f, c = a, p + c  = fa
+p = a, c = v, p + c  = av
+p = v, c = o, p + c  = vo
+p = o, c = r, p + c  = or
+p = or, c = ., p + c  = or.
+p = ., c =  , p + c  = . 
+p =  , c = N, p + c  =  N
+p = N, c = ã, p + c  = Nã
+p = ã, c = o, p + c  = ão
+p = ão, c =  , p + c  = ão 
+p =  , c = s, p + c  =  s
+p = s, c = e, p + c  = se
+p = se, c =  , p + c  = se 
+p =  , c = e, p + c  =  e
+p = e, c = s, p + c  = es
+p = es, c = q, p + c  = esq
+p = q, c = u, p + c  = qu
+p = qu, c = e, p + c  = que
+p = e, c = ç, p + c  = eç
+p = eç, c = a, p + c  = eça
+p = a, c =  , p + c  = a 
+p = a , c = t, p + c  = a t
+p = t, c = a, p + c  = ta
+p = a, c = m, p + c  = am
+p = m, c = b, p + c  = mb
+p = mb, c = é, p + c  = mbé
+p = é, c = m, p + c  = ém
+p = m, c =  , p + c  = m 
+p =  , c = d, p + c  =  d
+p =  d, c = o, p + c  =  do
+p = o, c = s, p + c  = os
+p = s, c =  , p + c  = s 
+p =  , c = m, p + c  =  m
+p =  m, c = e, p + c  =  me
+p = e, c = u, p + c  = eu
+p = eu, c = s, p + c  = eus
+p = s, c =  , p + c  = s 
+p = s , c = p, p + c  = s p
+p = p, c = r, p + c  = pr
+p = r, c = e, p + c  = re
+p = e, c = s, p + c  = es
+p = es, c = e, p + c  = ese
+p = e, c = n, p + c  = en
+p = n, c = t, p + c  = nt
+p = t, c = e, p + c  = te
+p = e, c = s, p + c  = es
+p = es, c = ., p + c  = es.
+p = ., c =  , p + c  = . 
+p = . , c = M, p + c  = . M
+p = M, c = a, p + c  = Ma
+p = a, c = s, p + c  = as
+p = s, c =  , p + c  = s 
+p = s , c = s, p + c  = s s
+p = s, c = e, p + c  = se
+p = se, c =  , p + c  = se 
+p = se , c = v, p + c  = se v
+p = v, c = o, p + c  = vo
+p = vo, c = c, p + c  = voc
+p = c, c = ê, p + c  = cê
+p = ê, c =  , p + c  = ê 
+p =  , c = e, p + c  =  e
+p =  e, c = s, p + c  =  es
+p = s, c = q, p + c  = sq
+p = sq, c = u, p + c  = squ
+p = u, c = e, p + c  = ue
+p = ue, c = c, p + c  = uec
+p = c, c = e, p + c  = ce
+p = e, c = r, p + c  = er
+p = er, c = ,, p + c  = er,
+p = ,, c =  , p + c  = , 
+p = , , c = n, p + c  = , n
+p = n, c = ã, p + c  = nã
+p = nã, c = o, p + c  = não
+p = o, c =  , p + c  = o 
+p = o , c = t, p + c  = o t
+p = t, c = e, p + c  = te
+p = te, c = m, p + c  = tem
+p = m, c =  , p + c  = m 
+p = m , c = p, p + c  = m p
+p = p, c = r, p + c  = pr
+p = pr, c = o, p + c  = pro
+p = o, c = b, p + c  = ob
+p = b, c = l, p + c  = bl
+p = l, c = e, p + c  = le
+p = e, c = m, p + c  = em
+p = em, c = a, p + c  = ema
+p = a, c = ., p + c  = a.
+p = ., c =  , p + c  = . 
+p = . , c = E, p + c  = . E
+p = E, c = u, p + c  = Eu
+p = u, c =  , p + c  = u 
+p = u , c = t, p + c  = u t
+p = t, c = e, p + c  = te
+p = te, c =  , p + c  = te 
+p =  , c = l, p + c  =  l
+p = l, c = e, p + c  = le
+p = le, c = m, p + c  = lem
+p = m, c = b, p + c  = mb
+p = mb, c = r, p + c  = mbr
+p = r, c = o, p + c  = ro
+p = ro, c = ., p + c  = ro.
+p = ., c = ., p + c  = ..
+
+1, 2, 3, 4, 5, 2, 6, 5, 4, 7, 8, 40, 8, 9, 8, 10, 11, 12, 39, 13, 4, 10, 8, 14, 4, 3, 15, 2, 16, 8, 12, 17, 18, 12, 2, 5, 19, 4, 15, 20, 39, 17, 42, 8, 17, 21, 14, 8, 22, 3, 68, 23, 5, 12, 4, 24, 3, 16, 84, 25, 4, 26, 71, 4, 73, 4, 75, 77, 79, 34, 6, 3, 47, 13, 10, 40, 5, 17, 52, 54, 109, 23, 12, 75, 8, 15, 6, 75, 91, 27, 3, 109, 96, 89, 28, 29, 97, 76, 78, 28, 61, 68, 70, 39, 118, 106, 113, 5, 11, 30, 46, 3, 91, 31, 55, 118, 4, 141, 47, 49, 25, 
+
+Dia oito de dezembro é meu aniversário, não se esqueça, por favor. Não se esqueça também dos meus presentes. Mas se você esquecer, não tem problema. Eu te lembro.
